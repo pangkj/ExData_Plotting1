@@ -1,1 +1,5 @@
 aaaaa
+
+Git add .
+Git commit –m "initial commit"
+Git push
