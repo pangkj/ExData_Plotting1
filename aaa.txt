@@ -1,5 +1,5 @@
 aaaaa
-
+Git clone https://github.com/pangkj/ExData_Plotting1.git
 Git add .
 Git commit –m "initial commit"
 Git push
